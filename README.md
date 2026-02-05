@@ -9,7 +9,7 @@
 
 CL-DFTC is a novel deep flight trajectory clustering framework that leverages:
 - **Data Augmentation**: Employs trajectory simplification and shift augmentation strategies
-- **Multi-View Feature Fusion Transformer (MVFTT)**: Captures both structural and semantic features
+- **Multi-View Flight Trajectory Transformer (MVFTT)**: Captures both structural and semantic features
 - **Self-supervised Contrastive Learning**: Pre-trains trajectory representations without labels
 - **Joint Training**: Fine-tunes the model with clustering objectives
 
