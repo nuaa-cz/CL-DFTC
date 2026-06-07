@@ -1,4 +1,4 @@
-# CL-DFTC: A Deep Flight Trajectory Clustering via Self-supervised Contrastive Learning
+# CL-DFTC: A deep flight trajectory clustering framework based on self-supervised contrastive learning
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 
